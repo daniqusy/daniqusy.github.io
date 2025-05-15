@@ -1,0 +1,92 @@
+---
+title: "My Projects"
+format: html
+---
+
+# 🛠️ Previous Projects
+
+Welcome to my portfolio of previous projects!  
+Here, I showcase some of the key projects I have completed, highlighting my interests and skills in AI, software development, and problem-solving.
+
+---
+
+## 📌 Project 1: HDBHaven
+
+**Description:**  
+HDBHaven is a data-driven platform designed to empower aspiring homeowners, buyers, and sellers in Singapore with actionable insights into HDB flat prices. The project leverages Python to deliver a suite of interactive visualizations, enabling users to easily explore historical trends, compare different flat types, and uncover key price patterns across locations.
+
+<br>
+
+**Technologies Used:**  
+- Python (Pandas, Matplotlib, Seaborn, Plotly)
+- RESTful API integration (data.gov.sg)
+- Jupyter Notebook
+
+<br>
+
+**Key Features:**  
+- Real-time Data Integration: Utilized an API to continuously retrieve up-to-date HDB resale data from data.gov.sg, ensuring analyses reflect the latest market conditions.
+
+- Insightful Visualizations: Developed a variety of charts and dashboards to help users intuitively understand price movements, demand hotspots, and affordability across different towns and flat types.
+
+- Price Prediction Model: Built and deployed a machine learning model that forecasts future resale prices for specific HDB flats, supporting more informed decision-making for buyers and sellers.
+
+**Link:**  
+[GitHub Repository](https://github.com/AnJayAx/PF_Project)  
+
+---
+
+## 📌 Project 2: Space Shooter: Math Adventure
+
+**Description:**  
+Space Shooter: Math Adventure is an educational arcade game designed to make learning math fun and engaging for kids. Developed as part of an Object-Oriented Programming (OOP) project, the game combines classic space shooter mechanics with interactive math challenges, effectively gamifying the learning experience.
+
+<br>
+
+**Technologies Used:**  
+- Java (OOP & SOLID principles)
+- libGDX game development framework
+
+<br>
+
+**Key Features:**  
+- Gamified Math Learning: Math problems are seamlessly integrated into the game, reinforcing concepts such as addition, subtraction, multiplication, and division.
+
+- Engaging Gameplay: Fast-paced space shooter action keeps players motivated and entertained as they practice math skills.
+
+**Link:**  
+[GitHub Repository](https://github.com/Beefware/SpaceShooter)
+
+---
+
+## 📌 Project 3: Astral Arc Computers
+
+**Description:**  
+Astral Arc Computers is a fully developed e-commerce website created for a hypothetical PC retailer, designed to deliver a seamless and secure online shopping experience. The platform features essential e-commerce functionalities such as a dynamic product catalog, shopping cart, and a robust checkout process, allowing users to easily browse, select, and purchase computer components or systems.
+
+<br>
+
+A key focus of the project was on security and data integrity. We implemented best practices to safeguard against common web vulnerabilities, including input validation and sanitization to prevent SQL injection and Cross-Site Scripting (XSS) attacks. All database interactions were carefully handled to ensure that sensitive user data and transactions remained protected.
+
+<br>
+
+**Technologies Used:**  
+- Frontend: HTML, CSS, JavaScript, Ajax
+- Backend: PHP
+- Database: MySQL (managed with MySQL Workbench)
+
+<br>
+
+**Key Features:**  
+- Comprehensive Product Management: Users can browse a wide selection of PC components, view detailed product information, and add items to their shopping cart.
+
+- Shopping Cart & Checkout: Fully functional cart system that allows users to review, update, and remove items before proceeding to a secure checkout.
+
+- Database Security: Utilized prepared statements and rigorous input sanitization to defend against SQL injection and XSS exploits.
+
+**Link:**  
+[GitHub Repository](https://github.com/ClarenceKoh/INF1005-Project)
+
+---
+
+*Feel free to explore the repositories above for more details, code, and documentation. If you have any questions about my projects or want to collaborate, please reach out!*

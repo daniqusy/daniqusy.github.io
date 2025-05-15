@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Welcome to My Personal Site",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I’m a student at the Singapore Institute of Technology, majoring in Applied Artificial Intelligence.\nI am deeply passionate about using AI to improve lives, especially in healthcare, productivity, and education.\n\n\n\n\nDegree: Applied Artificial Intelligence @ SIT\nPassions:\n\nAI in healthcare\n\nAI for productivity\n\nMaking education accessible with AI\n\nAI Inspiration:\nI believe AI can be a force for good, making knowledge accessible and boosting efficiency in meaningful ways.\n\n\n\n\n\n\nAI Journey (Past Projects):\nMy key projects.\nLearning Notes:\nNotes and resources from my AI studies.\nHobbies:\nGym routines, motorcycles, and gaming.\nReflection on the use of GenAI:\nMy experience using GenAI tools for this assessment.\n\n\n\n\n\n\nHow I Learn:\nI stay updated with AI through YouTube channels like Fireship and Andrej Karpathy.\nEthical Commitment:\nI am committed to using AI for the good of humanity.\n\n\nThank you for visiting!\nFeel free to explore and connect. If you have any questions or want to collaborate, don’t hesitate to reach out!"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,173 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Personal Site",
+    "section": "",
+    "text": "Degree: Applied Artificial Intelligence @ SIT\nPassions:\n\nAI in healthcare\n\nAI for productivity\n\nMaking education accessible with AI\n\nAI Inspiration:\nI believe AI can be a force for good, making knowledge accessible and boosting efficiency in meaningful ways."
+  },
+  {
+    "objectID": "index.html#explore-my-site",
+    "href": "index.html#explore-my-site",
+    "title": "Welcome to My Personal Site",
+    "section": "",
+    "text": "AI Journey (Past Projects):\nMy key projects.\nLearning Notes:\nNotes and resources from my AI studies.\nHobbies:\nGym routines, motorcycles, and gaming.\nReflection on the use of GenAI:\nMy experience using GenAI tools for this assessment."
+  },
+  {
+    "objectID": "index.html#stay-connected",
+    "href": "index.html#stay-connected",
+    "title": "Welcome to My Personal Site",
+    "section": "",
+    "text": "How I Learn:\nI stay updated with AI through YouTube channels like Fireship and Andrej Karpathy.\nEthical Commitment:\nI am committed to using AI for the good of humanity.\n\n\nThank you for visiting!\nFeel free to explore and connect. If you have any questions or want to collaborate, don’t hesitate to reach out!"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "My Reflection",
+    "section": "",
+    "text": "In this page, I share my experience using GenAI tools to accomplish this assessment. I will discuss the tool I used, its benefits and challenges, and how GenAI may assist me in future work.\n\n\n\nI used Perplexity AI as my main GenAI tool for this assessment.\nI chose Perplexity because it provides concise, well-cited answers and supports markdown formatting, which is helpful for creating structured and readable content.\n\n\n\n\n\nIdea Generation:\nPerplexity helped me brainstorm and outline my thoughts efficiently.\nFormatting Assistance:\nThe tool provided examples of markdown syntax, such as:\n\nLists\nHyperlinks (e.g., Perplexity AI)\n\nClarification:\nWhenever I was unsure how to structure a section, I could ask for specific examples or guidance.\n\n\n\n\n\n\nSaves time by quickly generating structured content.\nOffers relevant examples and explanations.\nSupports multiple markdown elements for better formatting.\nProvides clear, well-organized answers.\n\n\n\n\n\n\nSometimes, the responses are too generic and need further customization.\nIt may not always understand highly specific or nuanced queries.\nThere is a risk of over-reliance, which could limit my own critical thinking.\n\n\n\n\n\n\nProductivity:\nGenAI can help automate repetitive writing and summarization tasks.\nLearning:\nIt can explain complex concepts in simple terms, making self-study more effective.\nCollaboration:\nGenAI can assist in drafting reports, emails, and documentation in a professional setting.\n\n\n\n\n\nOverall, I find GenAI tools like Perplexity to be valuable companions for both academic and professional tasks. However, it’s important to use them thoughtfully and always review the generated content to ensure accuracy and originality."
+  },
+  {
+    "objectID": "reflection.html#what-is-the-genai-tool-you-have-used-why-did-you-choose-it",
+    "href": "reflection.html#what-is-the-genai-tool-you-have-used-why-did-you-choose-it",
+    "title": "My Reflection",
+    "section": "",
+    "text": "I used Perplexity AI as my main GenAI tool for this assessment.\nI chose Perplexity because it provides concise, well-cited answers and supports markdown formatting, which is helpful for creating structured and readable content."
+  },
+  {
+    "objectID": "reflection.html#how-did-the-genai-tool-help-you-in-completing-the-assessment",
+    "href": "reflection.html#how-did-the-genai-tool-help-you-in-completing-the-assessment",
+    "title": "My Reflection",
+    "section": "",
+    "text": "Idea Generation:\nPerplexity helped me brainstorm and outline my thoughts efficiently.\nFormatting Assistance:\nThe tool provided examples of markdown syntax, such as:\n\nLists\nHyperlinks (e.g., Perplexity AI)\n\nClarification:\nWhenever I was unsure how to structure a section, I could ask for specific examples or guidance."
+  },
+  {
+    "objectID": "reflection.html#what-do-you-think-are-beneficial-about-the-tool",
+    "href": "reflection.html#what-do-you-think-are-beneficial-about-the-tool",
+    "title": "My Reflection",
+    "section": "",
+    "text": "Saves time by quickly generating structured content.\nOffers relevant examples and explanations.\nSupports multiple markdown elements for better formatting.\nProvides clear, well-organized answers."
+  },
+  {
+    "objectID": "reflection.html#what-do-you-think-are-challenging-about-the-tool",
+    "href": "reflection.html#what-do-you-think-are-challenging-about-the-tool",
+    "title": "My Reflection",
+    "section": "",
+    "text": "Sometimes, the responses are too generic and need further customization.\nIt may not always understand highly specific or nuanced queries.\nThere is a risk of over-reliance, which could limit my own critical thinking."
+  },
+  {
+    "objectID": "reflection.html#how-do-you-think-will-genai-tools-assist-you-for-your-future-study-or-work",
+    "href": "reflection.html#how-do-you-think-will-genai-tools-assist-you-for-your-future-study-or-work",
+    "title": "My Reflection",
+    "section": "",
+    "text": "Productivity:\nGenAI can help automate repetitive writing and summarization tasks.\nLearning:\nIt can explain complex concepts in simple terms, making self-study more effective.\nCollaboration:\nGenAI can assist in drafting reports, emails, and documentation in a professional setting."
+  },
+  {
+    "objectID": "reflection.html#any-other-thoughts-you-would-like-to-share",
+    "href": "reflection.html#any-other-thoughts-you-would-like-to-share",
+    "title": "My Reflection",
+    "section": "",
+    "text": "Overall, I find GenAI tools like Perplexity to be valuable companions for both academic and professional tasks. However, it’s important to use them thoughtfully and always review the generated content to ensure accuracy and originality."
+  },
+  {
+    "objectID": "Project.html",
+    "href": "Project.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Welcome to my portfolio of previous projects!\nHere, I showcase some of the key projects I have completed, highlighting my interests and skills in AI, software development, and problem-solving.\n\n\n\nDescription:\nHDBHaven is a data-driven platform designed to empower aspiring homeowners, buyers, and sellers in Singapore with actionable insights into HDB flat prices. The project leverages Python to deliver a suite of interactive visualizations, enabling users to easily explore historical trends, compare different flat types, and uncover key price patterns across locations.\n\nTechnologies Used:\n- Python (Pandas, Matplotlib, Seaborn, Plotly) - RESTful API integration (data.gov.sg) - Jupyter Notebook\n\nKey Features:\n- Real-time Data Integration: Utilized an API to continuously retrieve up-to-date HDB resale data from data.gov.sg, ensuring analyses reflect the latest market conditions.\n\nInsightful Visualizations: Developed a variety of charts and dashboards to help users intuitively understand price movements, demand hotspots, and affordability across different towns and flat types.\nPrice Prediction Model: Built and deployed a machine learning model that forecasts future resale prices for specific HDB flats, supporting more informed decision-making for buyers and sellers.\n\nLink:\nGitHub Repository\n\n\n\n\nDescription:\nSpace Shooter: Math Adventure is an educational arcade game designed to make learning math fun and engaging for kids. Developed as part of an Object-Oriented Programming (OOP) project, the game combines classic space shooter mechanics with interactive math challenges, effectively gamifying the learning experience.\n\nTechnologies Used:\n- Java (OOP & SOLID principles) - libGDX game development framework\n\nKey Features:\n- Gamified Math Learning: Math problems are seamlessly integrated into the game, reinforcing concepts such as addition, subtraction, multiplication, and division.\n\nEngaging Gameplay: Fast-paced space shooter action keeps players motivated and entertained as they practice math skills.\n\nLink:\nGitHub Repository\n\n\n\n\nDescription:\nAstral Arc Computers is a fully developed e-commerce website created for a hypothetical PC retailer, designed to deliver a seamless and secure online shopping experience. The platform features essential e-commerce functionalities such as a dynamic product catalog, shopping cart, and a robust checkout process, allowing users to easily browse, select, and purchase computer components or systems.\n\nA key focus of the project was on security and data integrity. We implemented best practices to safeguard against common web vulnerabilities, including input validation and sanitization to prevent SQL injection and Cross-Site Scripting (XSS) attacks. All database interactions were carefully handled to ensure that sensitive user data and transactions remained protected.\n\nTechnologies Used:\n- Frontend: HTML, CSS, JavaScript, Ajax - Backend: PHP - Database: MySQL (managed with MySQL Workbench)\n\nKey Features:\n- Comprehensive Product Management: Users can browse a wide selection of PC components, view detailed product information, and add items to their shopping cart.\n\nShopping Cart & Checkout: Fully functional cart system that allows users to review, update, and remove items before proceeding to a secure checkout.\nDatabase Security: Utilized prepared statements and rigorous input sanitization to defend against SQL injection and XSS exploits.\n\nLink:\nGitHub Repository\n\nFeel free to explore the repositories above for more details, code, and documentation. If you have any questions about my projects or want to collaborate, please reach out!"
+  },
+  {
+    "objectID": "Project.html#project-1-hdbhaven",
+    "href": "Project.html#project-1-hdbhaven",
+    "title": "My Projects",
+    "section": "",
+    "text": "Description:\nHDBHaven is a data-driven platform designed to empower aspiring homeowners, buyers, and sellers in Singapore with actionable insights into HDB flat prices. The project leverages Python to deliver a suite of interactive visualizations, enabling users to easily explore historical trends, compare different flat types, and uncover key price patterns across locations.\n\nTechnologies Used:\n- Python (Pandas, Matplotlib, Seaborn, Plotly) - RESTful API integration (data.gov.sg) - Jupyter Notebook\n\nKey Features:\n- Real-time Data Integration: Utilized an API to continuously retrieve up-to-date HDB resale data from data.gov.sg, ensuring analyses reflect the latest market conditions.\n\nInsightful Visualizations: Developed a variety of charts and dashboards to help users intuitively understand price movements, demand hotspots, and affordability across different towns and flat types.\nPrice Prediction Model: Built and deployed a machine learning model that forecasts future resale prices for specific HDB flats, supporting more informed decision-making for buyers and sellers.\n\nLink:\nGitHub Repository"
+  },
+  {
+    "objectID": "Project.html#project-2-space-shooter-math-adventure",
+    "href": "Project.html#project-2-space-shooter-math-adventure",
+    "title": "My Projects",
+    "section": "",
+    "text": "Description:\nSpace Shooter: Math Adventure is an educational arcade game designed to make learning math fun and engaging for kids. Developed as part of an Object-Oriented Programming (OOP) project, the game combines classic space shooter mechanics with interactive math challenges, effectively gamifying the learning experience.\n\nTechnologies Used:\n- Java (OOP & SOLID principles) - libGDX game development framework\n\nKey Features:\n- Gamified Math Learning: Math problems are seamlessly integrated into the game, reinforcing concepts such as addition, subtraction, multiplication, and division.\n\nEngaging Gameplay: Fast-paced space shooter action keeps players motivated and entertained as they practice math skills.\n\nLink:\nGitHub Repository"
+  },
+  {
+    "objectID": "Project.html#project-3-astral-arc-computers",
+    "href": "Project.html#project-3-astral-arc-computers",
+    "title": "My Projects",
+    "section": "",
+    "text": "Description:\nAstral Arc Computers is a fully developed e-commerce website created for a hypothetical PC retailer, designed to deliver a seamless and secure online shopping experience. The platform features essential e-commerce functionalities such as a dynamic product catalog, shopping cart, and a robust checkout process, allowing users to easily browse, select, and purchase computer components or systems.\n\nA key focus of the project was on security and data integrity. We implemented best practices to safeguard against common web vulnerabilities, including input validation and sanitization to prevent SQL injection and Cross-Site Scripting (XSS) attacks. All database interactions were carefully handled to ensure that sensitive user data and transactions remained protected.\n\nTechnologies Used:\n- Frontend: HTML, CSS, JavaScript, Ajax - Backend: PHP - Database: MySQL (managed with MySQL Workbench)\n\nKey Features:\n- Comprehensive Product Management: Users can browse a wide selection of PC components, view detailed product information, and add items to their shopping cart.\n\nShopping Cart & Checkout: Fully functional cart system that allows users to review, update, and remove items before proceeding to a secure checkout.\nDatabase Security: Utilized prepared statements and rigorous input sanitization to defend against SQL injection and XSS exploits.\n\nLink:\nGitHub Repository\n\nFeel free to explore the repositories above for more details, code, and documentation. If you have any questions about my projects or want to collaborate, please reach out!"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "Welcome to my hobbies page! While I’m passionate about Artificial Intelligence and technology, I also believe in living a well-rounded life. Here are some of the activities I enjoy outside of my academic and professional pursuits:\n\n\n\nStaying active is important to me. I love hitting the gym, whether it’s for strength training, cardio, or just clearing my mind after a long day of coding. Fitness helps me maintain discipline, focus, and a healthy lifestyle.\nFavorite activities:\n- Weightlifting\n- HIIT workouts\n- Exploring new routines and challenges\n\n\n\n\nMotorcycles are my passion and my escape. I enjoy learning about different bikes, going for rides, and keeping up with the latest in motorcycle culture. There’s nothing quite like the freedom of the open road and the thrill of two wheels.\nFavorite aspects:\n- Weekend rides with friends\n- Exploring scenic routes\n- Customizing and maintaining bikes\n\n\n\n\nI believe that style is a form of self-expression. I enjoy keeping up with men’s fashion trends, experimenting with different looks, and finding ways to blend comfort with confidence.\nWhat I enjoy:\n- Curating versatile wardrobes\n- Mixing classic and modern styles\n- Following fashion influencers and brands\n\n\n\n\nGaming is a fun way for me to relax, connect with friends, and sometimes even find inspiration for coding and design.\nGenres I like:\n- Action-adventure\n- Racing\n- Strategy and simulation\n\nThanks for stopping by! If you share any of these interests or have recommendations, feel free to reach out-I’m always up for a chat about fitness, bikes, style, or games."
+  },
+  {
+    "objectID": "hobbies.html#fitness-gym",
+    "href": "hobbies.html#fitness-gym",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "Staying active is important to me. I love hitting the gym, whether it’s for strength training, cardio, or just clearing my mind after a long day of coding. Fitness helps me maintain discipline, focus, and a healthy lifestyle.\nFavorite activities:\n- Weightlifting\n- HIIT workouts\n- Exploring new routines and challenges"
+  },
+  {
+    "objectID": "hobbies.html#motorcycles",
+    "href": "hobbies.html#motorcycles",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "Motorcycles are my passion and my escape. I enjoy learning about different bikes, going for rides, and keeping up with the latest in motorcycle culture. There’s nothing quite like the freedom of the open road and the thrill of two wheels.\nFavorite aspects:\n- Weekend rides with friends\n- Exploring scenic routes\n- Customizing and maintaining bikes"
+  },
+  {
+    "objectID": "hobbies.html#mens-fashion",
+    "href": "hobbies.html#mens-fashion",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "I believe that style is a form of self-expression. I enjoy keeping up with men’s fashion trends, experimenting with different looks, and finding ways to blend comfort with confidence.\nWhat I enjoy:\n- Curating versatile wardrobes\n- Mixing classic and modern styles\n- Following fashion influencers and brands"
+  },
+  {
+    "objectID": "hobbies.html#gaming",
+    "href": "hobbies.html#gaming",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "Gaming is a fun way for me to relax, connect with friends, and sometimes even find inspiration for coding and design.\nGenres I like:\n- Action-adventure\n- Racing\n- Strategy and simulation\n\nThanks for stopping by! If you share any of these interests or have recommendations, feel free to reach out-I’m always up for a chat about fitness, bikes, style, or games."
+  },
+  {
+    "objectID": "docs/Hobbies.html",
+    "href": "docs/Hobbies.html",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "Welcome to my hobbies page! While I’m passionate about Artificial Intelligence and technology, I also believe in living a well-rounded life. Here are some of the activities I enjoy outside of my academic and professional pursuits:\n\n\n\nStaying active is important to me. I love hitting the gym, whether it’s for strength training, cardio, or just clearing my mind after a long day of coding. Fitness helps me maintain discipline, focus, and a healthy lifestyle.\nFavorite activities:\n- Weightlifting\n- HIIT workouts\n- Exploring new routines and challenges\n\n\n\n\nMotorcycles are my passion and my escape. I enjoy learning about different bikes, going for rides, and keeping up with the latest in motorcycle culture. There’s nothing quite like the freedom of the open road and the thrill of two wheels.\nFavorite aspects:\n- Weekend rides with friends\n- Exploring scenic routes\n- Customizing and maintaining bikes\n\n\n\n\nI believe that style is a form of self-expression. I enjoy keeping up with men’s fashion trends, experimenting with different looks, and finding ways to blend comfort with confidence.\nWhat I enjoy:\n- Curating versatile wardrobes\n- Mixing classic and modern styles\n- Following fashion influencers and brands\n\n\n\n\nGaming is a fun way for me to relax, connect with friends, and sometimes even find inspiration for coding and design.\nGenres I like:\n- Action-adventure\n- Racing\n- Strategy and simulation\n\nThanks for stopping by! If you share any of these interests or have recommendations, feel free to reach out-I’m always up for a chat about fitness, bikes, style, or games."
+  },
+  {
+    "objectID": "docs/Hobbies.html#fitness-gym",
+    "href": "docs/Hobbies.html#fitness-gym",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "Staying active is important to me. I love hitting the gym, whether it’s for strength training, cardio, or just clearing my mind after a long day of coding. Fitness helps me maintain discipline, focus, and a healthy lifestyle.\nFavorite activities:\n- Weightlifting\n- HIIT workouts\n- Exploring new routines and challenges"
+  },
+  {
+    "objectID": "docs/Hobbies.html#motorcycles",
+    "href": "docs/Hobbies.html#motorcycles",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "Motorcycles are my passion and my escape. I enjoy learning about different bikes, going for rides, and keeping up with the latest in motorcycle culture. There’s nothing quite like the freedom of the open road and the thrill of two wheels.\nFavorite aspects:\n- Weekend rides with friends\n- Exploring scenic routes\n- Customizing and maintaining bikes"
+  },
+  {
+    "objectID": "docs/Hobbies.html#mens-fashion",
+    "href": "docs/Hobbies.html#mens-fashion",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "I believe that style is a form of self-expression. I enjoy keeping up with men’s fashion trends, experimenting with different looks, and finding ways to blend comfort with confidence.\nWhat I enjoy:\n- Curating versatile wardrobes\n- Mixing classic and modern styles\n- Following fashion influencers and brands"
+  },
+  {
+    "objectID": "docs/Hobbies.html#gaming",
+    "href": "docs/Hobbies.html#gaming",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "Gaming is a fun way for me to relax, connect with friends, and sometimes even find inspiration for coding and design.\nGenres I like:\n- Action-adventure\n- Racing\n- Strategy and simulation\n\nThanks for stopping by! If you share any of these interests or have recommendations, feel free to reach out-I’m always up for a chat about fitness, bikes, style, or games."
   }
 ]

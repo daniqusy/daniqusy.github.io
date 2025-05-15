@@ -1,11 +1,52 @@
 ---
-title: "temp_website"
+title: "Welcome to My Personal Site"
+format: html
 ---
 
-This is a Quarto website.
+# 👋 Hello, I'm Dani!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm a student at the **Singapore Institute of Technology**, majoring in **Applied Artificial Intelligence**.  
+I am deeply passionate about using AI to improve lives, especially in healthcare, productivity, and education.
 
-```{r}
-1 + 1
-```
+---
+
+## 🚀 About Me
+
+- **Degree:** Applied Artificial Intelligence @ SIT
+- **Passions:**  
+  - AI in healthcare  
+  - AI for productivity  
+  - Making education accessible with AI
+- **AI Inspiration:**  
+  I believe AI can be a force for good, making knowledge accessible and boosting efficiency in meaningful ways.
+
+---
+
+## 📂 Explore My Site
+
+- [AI Journey (Past Projects)](Project.qmd):  
+  My key projects.
+
+- [Learning Notes](Learning_Notes.qmd):  
+  Notes and resources from my AI studies.
+
+- [Hobbies](hobbies.qmd):  
+  Gym routines, motorcycles, and gaming.
+  
+- [Reflection on the use of GenAI](reflection.qmd):  
+  My experience using GenAI tools for this assessment.
+
+---
+
+## 🧭 Stay Connected
+
+- **How I Learn:**  
+  I stay updated with AI through YouTube channels like Fireship and Andrej Karpathy.
+- **Ethical Commitment:**  
+  I am committed to using AI for the good of humanity.
+
+---
+
+Thank you for visiting!  
+Feel free to explore and connect.
+If you have any questions or want to collaborate, don't hesitate to reach out!

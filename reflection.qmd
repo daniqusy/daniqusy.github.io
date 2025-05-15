@@ -1,0 +1,66 @@
+---
+title: "My Reflection"
+format: html
+---
+
+# Reflection on the use of GenAI
+
+In this page, I share my experience using GenAI tools to accomplish this assessment. I will discuss the tool I used, its benefits and challenges, and how GenAI may assist me in future work.
+
+---
+
+## 1. What is the GenAI tool you have used? Why did you choose it?
+
+I used **Perplexity AI** as my main GenAI tool for this assessment.  
+I chose Perplexity because it provides concise, well-cited answers and supports markdown formatting, which is helpful for creating structured and readable content.
+
+---
+
+## 2. How did the GenAI tool help you in completing the assessment?
+
+- **Idea Generation:**  
+  Perplexity helped me brainstorm and outline my thoughts efficiently.
+
+- **Formatting Assistance:**  
+  The tool provided examples of markdown syntax, such as:
+  - Lists
+  - Hyperlinks (e.g., [Perplexity AI](https://www.perplexity.ai))
+
+- **Clarification:**  
+  Whenever I was unsure how to structure a section, I could ask for specific examples or guidance.
+
+---
+
+## 3. What do you think are beneficial about the tool?
+
+- Saves time by quickly generating structured content.
+- Offers relevant examples and explanations.
+- Supports multiple markdown elements for better formatting.
+- Provides clear, well-organized answers.
+
+---
+
+## 4. What do you think are challenging about the tool?
+
+- Sometimes, the responses are too generic and need further customization.
+- It may not always understand highly specific or nuanced queries.
+- There is a risk of over-reliance, which could limit my own critical thinking.
+
+---
+
+## 5. How do you think will GenAI tools assist you for your future study or work?
+
+- **Productivity:**  
+  GenAI can help automate repetitive writing and summarization tasks.
+- **Learning:**  
+  It can explain complex concepts in simple terms, making self-study more effective.
+- **Collaboration:**  
+  GenAI can assist in drafting reports, emails, and documentation in a professional setting.
+
+---
+
+## 6. Any other thoughts you would like to share
+
+Overall, I find GenAI tools like Perplexity to be valuable companions for both academic and professional tasks. However, it's important to use them thoughtfully and always review the generated content to ensure accuracy and originality.
+
+---

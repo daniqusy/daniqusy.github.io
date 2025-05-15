@@ -3,20 +3,31 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "DANI"
+  favicon: favicon.png
   navbar:
+    logo: logo.png
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        file: index.qmd
+      - text: "Projects"
+        file: Project.qmd
+      - text: "Learning Notes"
+        file: Learning_Notes.qmd
+      - text: "Hobbies"
+        file: hobbies.qmd
+      - text: "Reflection"
+        file: reflection.qmd
 
 format:
   html:
     theme:
-      - cosmo
+      - darkly
       - brand
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
 
 
 

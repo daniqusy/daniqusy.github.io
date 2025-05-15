@@ -1,0 +1,52 @@
+---
+title: "My Hobbies"
+format: html
+---
+
+# 🏍️ My Hobbies
+
+Welcome to my hobbies page! While I’m passionate about Artificial Intelligence and technology, I also believe in living a well-rounded life. Here are some of the activities I enjoy outside of my academic and professional pursuits:
+
+---
+
+## 🏋️‍♂️ Fitness & Gym
+
+Staying active is important to me. I love hitting the gym, whether it’s for strength training, cardio, or just clearing my mind after a long day of coding. Fitness helps me maintain discipline, focus, and a healthy lifestyle.  
+**Favorite activities:**  
+- Weightlifting  
+- HIIT workouts  
+- Exploring new routines and challenges
+
+---
+
+## 🏍️ Motorcycles
+
+Motorcycles are my passion and my escape. I enjoy learning about different bikes, going for rides, and keeping up with the latest in motorcycle culture. There’s nothing quite like the freedom of the open road and the thrill of two wheels.  
+**Favorite aspects:**  
+- Weekend rides with friends  
+- Exploring scenic routes  
+- Customizing and maintaining bikes
+
+---
+
+## 👔 Men’s Fashion
+
+I believe that style is a form of self-expression. I enjoy keeping up with men’s fashion trends, experimenting with different looks, and finding ways to blend comfort with confidence.  
+**What I enjoy:**  
+- Curating versatile wardrobes  
+- Mixing classic and modern styles  
+- Following fashion influencers and brands
+
+---
+
+## 🎮 Gaming
+
+Gaming is a fun way for me to relax, connect with friends, and sometimes even find inspiration for coding and design.  
+**Genres I like:**  
+- Action-adventure  
+- Racing  
+- Strategy and simulation
+
+---
+
+Thanks for stopping by! If you share any of these interests or have recommendations, feel free to reach out-I’m always up for a chat about fitness, bikes, style, or games.
